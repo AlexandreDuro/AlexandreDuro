@@ -2,10 +2,9 @@
 <h3 align="center">A developer from France</h3>
 
 - 🔭 I’m currently working on [aimotion](https://github.com/AlexandreDuro/aimotion)
+and [vintedge](https://github.com/AlexandreDuro/Vintedge)
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 👯 and [vintedge](https://github.com/AlexandreDuro/Vintedge)
 
 - 🤝 I’m looking for help with [aimotion](https://github.com/AlexandreDuro/aimotion)
 
