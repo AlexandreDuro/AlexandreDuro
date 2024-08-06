@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandre Duro</h1>
 <h3 align="center">A developer from France</h3>
 
-- 🔭 I’m currently working on [aimotion](https://github.com/AlexandreDuro/aimotion)
-and [vintedge](https://github.com/AlexandreDuro/Vintedge)
+- 🌱 I’m currently learning **Golang**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 🤝 I’m looking for help with [aimotion](https://github.com/AlexandreDuro/aimotion)
+- 🤝 I’m looking for an apprenticeship
 
 - 📫 How to reach me **alex@dgz.solutions**
 
