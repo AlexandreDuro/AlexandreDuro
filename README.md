@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for an apprenticeship
-
 - 📫 How to reach me **alex@dgz.solutions**
 
 <h3 align="left">Connect with me:</h3>
